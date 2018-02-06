@@ -1,0 +1,30 @@
+#pet-logo {
+	width: 75px;
+	height: 75px;
+}
+
+.foto-membros {
+	width: 90px;
+	height: 90px;
+}
+
+.portfolio-img {
+	width: 100%!important;
+	height: 295px!important;
+}
+
+.navbgcolor {
+	background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.footer-bgcolor {
+	color: transparent;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+#footer {
+	padding: 0.1rem;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
